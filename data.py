@@ -7,3 +7,6 @@ user_body = {
     "phone": "+52234506890",
     "address": "Calle 123, Ciudad, País",
 }
+kit_body = {
+    "name": "Para pícnics"
+}

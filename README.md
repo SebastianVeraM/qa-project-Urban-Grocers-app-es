@@ -31,11 +31,20 @@ Instalación de dependencias:
 ```python
 pip install requests pytest
 ```
+## 📖 Documentación
+La documentación de la API se basa en **apiDoc** y en los endpoints proporcionados por Urban Grocers.
+
+## 🛠️ Tecnologías utilizadas
+- **Python 3.9+**
+- **Requests** para enviar solicitudes HTTP
+- **Pytest** para pruebas automatizadas
+- **apiDoc** como referencia de documentación
+
 ## ▶️ Ejecutar scripts manuales
 Si quieres probar directamente las solicitudes y ver los resultados en consola:
 
-```python_request.py
-python sender_stand
+```python
+python sender_stand_request.py
 ```
 
 Esto mostrará el código de respuesta y el **JSON** recibido.
